@@ -1,0 +1,17 @@
+body{
+    background-color: white
+(187, 236, 239, 0.808);
+    color: rgb(39, 12, 12);
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 5cm;
+    margin-right: 5cm;
+
+}
+p{
+font-size: 20px;
+}
+img {
+    width: 500px;
+    display: block;
+    margin: 0px auto;
+}
